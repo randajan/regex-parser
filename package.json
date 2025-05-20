@@ -22,8 +22,16 @@
     "LICENSE"
   ],
   "keywords": [
-    "types",
-    "tools"
+    "regex",
+    "regexp",
+    "stringify",
+    "parse",
+    "regular-expression",
+    "regexplorer",
+    "serialization",
+    "deserialization",
+    "regex-utils",
+    "javascript"
   ],
   "homepage": "https://github.com/randajan/regex-parser",
   "bugs": {
