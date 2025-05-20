@@ -1,0 +1,37 @@
+{
+  "name": "@randajan/regex-parser",
+  "version": "0.0.1",
+  "description": "Convert between JavaScript RegExp and its string representation. Simple, safe and lightweight.",
+  "repository": "randajan/regex-parser",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/esm/index.mjs",
+      "require": "./dist/cjs/index.cjs"
+    }
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@randajan/simple-lib": "^3.2.0"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "types",
+    "tools"
+  ],
+  "homepage": "https://github.com/randajan/regex-parser",
+  "bugs": {
+    "url": "https://github.com/randajan/regex-parser/issues"
+  },
+  "author": {
+    "name": "Jan Randa",
+    "email": "jnranda@gmail.com",
+    "url": "https://www.linkedin.com/in/randajan/"
+  }
+}
