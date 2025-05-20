@@ -1,6 +1,6 @@
 {
   "name": "@randajan/regex-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert between JavaScript RegExp and its string representation. Simple, safe and lightweight.",
   "repository": "randajan/regex-parser",
   "type": "module",
